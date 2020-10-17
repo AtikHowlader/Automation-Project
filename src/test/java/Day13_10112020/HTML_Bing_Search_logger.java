@@ -32,4 +32,4 @@ public class HTML_Bing_Search_logger extends Abstract_Class {
 
 
 
-}//end of java class
+}//end of class 1
