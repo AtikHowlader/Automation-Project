@@ -38,7 +38,7 @@ public class Reusable_Methods_Loggers {
         //set the driver to be incognito mode(private)
         options.addArguments("incognito");
         //run the driver in headless mode
-        options.addArguments("headless");
+        //options.addArguments("headless");
         //defining the web driver that you will be using
         WebDriver driver = new ChromeDriver(options); //options variable should be passed here
         return driver;
