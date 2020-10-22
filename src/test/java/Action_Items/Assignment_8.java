@@ -42,6 +42,7 @@ public class Assignment_8 extends Abstract_Class_Cross_Browser {
         String address = Reusable_Methods_Loggers.captureResult(driver,"//*[@class='active']",logger,"Address");
         System.out.println(address);
         logger.log(LogStatus.PASS,"The address is " + address);
+        driver.quit();
     }//end of test
 
 }//end of class
