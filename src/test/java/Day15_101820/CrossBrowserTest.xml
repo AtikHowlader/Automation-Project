@@ -4,14 +4,14 @@
     <test name="Google Crossbrowser Test" preserve-order="true">
         <parameter name="browser" value="chrome"></parameter>
         <classes>
-            <class name="Day15_101820.HTML_Bing_Search_logger_Crossbrowser" />
+            <class name="Action_Items.Assignment_8" />
         </classes>
     </test> <!-- Test -->
 
     <test name="Firefox Crossbrowser Test" preserve-order="true">
         <parameter name="browser" value="firefox"></parameter>
         <classes>
-            <class name="Day15_101820.HTML_Bing_Search_logger_Crossbrowser" />
+            <class name="Action_Items.Assignment_8" />
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
